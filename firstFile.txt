@@ -1,1 +1,4 @@
 Git repo Test this is edited from master.
+
+This line added from branch b1.
+
